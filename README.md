@@ -36,7 +36,7 @@ Supported platforms:
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/pur.git
+git clone https://github.com/bogrsh/pur.git
 cd pur
 ```
 
