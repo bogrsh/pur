@@ -4,6 +4,8 @@
 `pur` is a minimalist terminal RSS reader written in Python + curses.  
 It stores read/unread state, keeps a cache for instant startup, and runs entirely inside the terminal.
 
+![demo](demo.gif)
+
 Supported platforms:
 - Linux  
 - macOS  
@@ -121,7 +123,7 @@ $ pur
 | **?**         | help                     |
 | **q**         | quit                     |
 
-## **Screenshots (placeholder)**
+## **Screenshots**
 ```bash
 ┌───────────────────────────────────────────────┐
 │ ★ 12-01 14:22 [Python] New release of X       │
