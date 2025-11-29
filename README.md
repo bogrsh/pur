@@ -1,4 +1,5 @@
 # **pur — Python UNIX RSS**
+![pur](pur.png)
 ### _A tiny, stupidly simple, cross-platform TUI RSS reader for Linux, macOS, WSL, and Android (Termux)._
 
 `pur` is a minimalist terminal RSS reader written in Python + curses.  
